@@ -1,0 +1,18 @@
+Exercício 1 – Conceitual
+1. Explique com suas próprias palavras o que é Engenharia de Software.
+    E a area resposavel que executa os principios de engenharia, processos, metodos, e ferramentas
+    que garante um gerenciamento melhor ao projeto.
+
+Exercício 2 – Comparação
+2. Explique a diferença entre programar e aplicar Engenharia de Software.
+    Enquanto na engenharia tem um todo planejamento, o programar põe em pratica o que foi planejado.
+
+Exercício 3 – Análise
+3. Escolha um sistema que você utiliza no dia a dia e cite dois problemas que poderiam ser
+evitados com Engenharia de Software.
+    Instagram, muita puluição visual e muitas notificações, como solução deve ser feita um planejameto onde tanto da intefarce
+    do app quanto da aba de notificação de apps.
+
+Exercício 4 – PBL
+4. Descreva o problema principal que o sistema SIGEP pretende resolver.
+    Gerenciamento e falta supervisão, a falta de controle maunal dos usuarios, falta de historico de serviços, e etc.
